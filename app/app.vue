@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <UButton>
-      Click me
-    </UButton>
+  <div class="p-10">
+    <RandomNumber />
   </div>
 </template>
